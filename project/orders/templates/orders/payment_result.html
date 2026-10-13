@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+<main class="main">
+    <div class="page-content">
+        <div class="container text-center" style="padding: 80px 0;">
+            {% if success %}
+            <i class="w-icon-check" style="font-size: 5rem; color: #2ecc71;"></i>
+            <h2 class="mt-4">پرداخت با موفقیت انجام شد</h2>
+            <p class="mb-6">کد پیگیری تراکنش شما: <strong>{{ ref_id }}</strong></p>
+            <a href="{% url 'panel' %}" class="btn btn-dark btn-rounded">مشاهده سفارشات من</a>
+            {% else %}
+            <i class="w-icon-close" style="font-size: 5rem; color: #e74c3c;"></i>
+            <h2 class="mt-4">پرداخت ناموفق بود</h2>
+            <p class="mb-6">{{ message }}</p>
+            <a href="{% url 'cart' %}" class="btn btn-dark btn-rounded">بازگشت به سبد خرید</a>
+            {% endif %}
+        </div>
+    </div>
+</main>
+{% endblock %}
