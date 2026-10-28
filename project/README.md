@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="p2" src="https://github.com/user-attachments/assets/48f4eabc-f3ee-4bbd-ae90-fec0e799fc92" />
+<img width="1920" height="1080" alt="p1" src="https://github.com/user-attachments/assets/ea65f91a-75bf-4778-8d2b-541a0c9c80ae" />
 # فروشگاه وولمارت (پروژه‌ی جنگو)
 
 پروژه‌ی فروشگاهی ساخته‌شده بر پایه‌ی قالب HTML وولمارت، با معماری چند اپ ساده.
@@ -44,14 +46,11 @@ python manage.py runserver
 
 ## تصاویر پروژه
 
-![تصویر 1](./images/p1.png)
+<img width="1920" height="1080" alt="p3" src="https://github.com/user-attachments/assets/fb92a66c-f1db-48ae-95cc-462f81df395b" />
+<img width="1920" height="1080" alt="p5" src="https://github.com/user-attachments/assets/05d42d5f-0586-465e-b0f9-7086aa77dc7c" />
+<img width="1920" height="1080" alt="p4" src="https://github.com/user-attachments/assets/fdec2498-20ec-4674-b43c-193030108f3b" />
+<img width="1920" height="1080" alt="p2" src="https://github.com/user-attachments/assets/a7ae1b24-4728-4647-b87a-0a75e0edd67b" />
+<img width="1920" height="1080" alt="p1" src="https://github.com/user-attachments/assets/c68ecbfe-10d8-4df9-b405-5e678963bf61" />
 
-![تصویر 2](./images/p2.png)
 
-![تصویر 3](./images/p3.png)
 
-![تصویر 4](./images/p4.png)
-
-![تصویر 5](./images/p5.png)
-
-![تصویر 6](./images/p6.png)
