@@ -41,3 +41,17 @@ python manage.py runserver
 ## تصاویر پروژه
 
 ![تصویر پروژه](./images/Screenshot%202026-10-28%20155754.png)
+
+## تصاویر پروژه
+
+![تصویر 1](./images/p1.png)
+
+![تصویر 2](./images/p2.png)
+
+![تصویر 3](./images/p3.png)
+
+![تصویر 4](./images/p4.png)
+
+![تصویر 5](./images/p5.png)
+
+![تصویر 6](./images/p6.png)
